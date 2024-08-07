@@ -1,0 +1,27 @@
+{
+  "name": "deep_learn",
+  "version": "1.0.0",
+  "description": "deep learn react to be worlds best front-end dev",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techgeek-sella/perseverance.git"
+  },
+  "author": "selladurai vadivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techgeek-sella/perseverance/issues"
+  },
+  "homepage": "https://github.com/techgeek-sella/perseverance#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
